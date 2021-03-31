@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Yada!! Light</string>
+    <string name = "app_splash_screen_footer_info">v1.0 by doctor fran</string>
+    <string name = "tokenized_input_hint">Transliterar</string>
+    <string name="options_enable_service_head">Ativar \'Toque para traduzir\'</string>
+    <string name="options_enable_service_sub">Quando ativado, o recurso \'Toque para traduzir\' é executado em segundo plano.</string>
+    <string name="app_open_widget_description">Abrir popup de tradução</string>
+    <string name="app_service_enabled_header">[Yada!! Light] \'Toque para traduzir\' ativo</string>
+    <string name="app_service_enabled_description">Tradução instantânea ao toque de um botão</string>
+    <string name="app_service_stop_description">Parar</string>
+    <string name="app_service_show_hide_description">Mostrar/Esconder botão</string>
+    <string name="app_main_function_description">Toque para traduzir</string>
+    <string name="app_service_already_running">O serviço já está sendo executado.</string>
+</resources>
